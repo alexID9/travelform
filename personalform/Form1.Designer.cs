@@ -307,7 +307,7 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(192, 0, 0);
+            BackColor = Color.DarkRed;
             ClientSize = new Size(800, 450);
             Controls.Add(btnbackward);
             Controls.Add(btnforward);
